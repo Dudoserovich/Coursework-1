@@ -1,0 +1,1 @@
+.\venv\Scripts\pyinstaller.exe --onefile --noconsole --path .\venv\ .\main.py --paths C:\Windows\WinSxS\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320
